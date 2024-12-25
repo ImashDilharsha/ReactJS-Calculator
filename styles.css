@@ -38,7 +38,7 @@ body {
 .output {
   grid-column: 1 / -1;
   background-color: rgba(0, 0, 0, .75);
-  background: linear-gradient(to right,rgb(28, 4, 64), #000000, rgb(28, 4, 64));
+  background: linear-gradient(to right,#00FF6C, #00AAFF, rgb(57, 8, 131));
   display: flex;
   flex-direction: column;
   align-items: flex-end;
